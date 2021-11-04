@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  cursor: url(./cursor/cur1054.cur), auto;
+  margin: 0;
+}
+
+.div-data{
+  text-align: center;
+  height: 98%;
+  width: 20%;
+  position: absolute;
+  background-color: white;
+  cursor: url(./cursor/cur1054.cur), auto;
+}
+.div-game{
+  height: 98%;
+  width: 76%;
+  position: absolute;
+  left: 22%;
+  background-color: white;
+  /* cursor: crosshair; */
+  cursor: url(./cursor/precision.cur), auto;
+}
+
+.gametext{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  margin:  5%;
+  color: #011F3F;
+  text-align: center;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.gameover-text {
+  font-size: 3rem;
+}
+
+.btnStop{
+  cursor: url(./cursor/cur1054.cur), auto;
+  border-color: #011F3F;
+}
