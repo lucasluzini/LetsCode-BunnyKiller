@@ -10,7 +10,7 @@ Este app, se trata de um jogo cujo o objetivo é matar coelhos.
 <li>São gerados alvos/coelhos em posições aleatórias em uma area específica na tela.</li><br/>
 <li>O tamanho da area dos alvos é dinamica e não possui uma tamanho fixo.
 Caso o tamanho da janela do navegador não esteja maximizada, o sistema irá calcular o
-tamanho proporcional desta área, para os alvos aparecerem.
+tamanho proporcional desta área, para os alvos aparecerem.</li><br/>
 <li>Ao acertar um coelho, é somado +1 ao score.</li><br/>
 <li>A partir do 10 coelho abatido, será decrementado 100 milisegundos a cada 5 acertos ao tempo de aparecimento de outro coelho,
 tornando o jogo mais dificil.</li><br/>
